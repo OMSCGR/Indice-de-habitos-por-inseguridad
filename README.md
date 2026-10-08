@@ -1,1 +1,2 @@
 - 🔁 Índice de Hábitos por Inseguridad en el DMQ 2023-2024 vs 2025-2026: https://omscgr.github.io/Indice-de-habitos-por-inseguridad/
+- 💻 Notebook: https://colab.research.google.com/drive/1dSesETJ4JuB7E1bRqKS18un7BF8KvOVP?usp=sharing
